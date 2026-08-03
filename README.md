@@ -1,4 +1,4 @@
-<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/7b5bd603-d2d2-438f-9e93-3b28ca4bfc4e" />
+🤍
 
 ![gng](https://github.com/ghcoulfaun/ghcoulfaun/blob/aa7efb8a3327b31b7eedf9cdfddf745b1005fcb2/gkgsvx.png)
 <!--
