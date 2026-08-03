@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![gng](https://github.com/ghcoulfaun/ghcoulfaun/blob/aa7efb8a3327b31b7eedf9cdfddf745b1005fcb2/gkgsvx.png)
 <!--
 **ghcoulfaun/ghcoulfaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
