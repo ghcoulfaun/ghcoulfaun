@@ -1,4 +1,4 @@
-![banner](https://github.com/ghcoulfaun/ghcoulfaun/blob/fa0d4053d296f1452141443aaa0458337e2b1c4e/IMG_5802.gif)![img](https://github.com/ghcoulfaun/ghcoulfaun/blob/cb0df1edf762b1f3707504024417f6f3d9d50ffa/IMG_5797.png)
+![banner](https://github.com/ghcoulfaun/ghcoulfaun/blob/fa0d4053d296f1452141443aaa0458337e2b1c4e/IMG_5802.gif)![banner beside banner](https://github.com/ghcoulfaun/ghcoulfaun/blob/9242bb1a6c7979c9131f86ebed50e678fc32f970/IMG_5808.gif)![img](https://github.com/ghcoulfaun/ghcoulfaun/blob/cb0df1edf762b1f3707504024417f6f3d9d50ffa/IMG_5797.png)
 <!--
 **ghcoulfaun/ghcoulfaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
