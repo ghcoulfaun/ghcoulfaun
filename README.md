@@ -1,8 +1,8 @@
 🤍
 
 ![gng](https://github.com/ghcoulfaun/ghcoulfaun/blob/aa7efb8a3327b31b7eedf9cdfddf745b1005fcb2/gkgsvx.png)
-<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/b9f5b5a8-9bb7-48a5-868b-aebd4578e796" />
 ![lyrics](https://github.com/ghcoulfaun/ghcoulfaun/blob/94753daa77417e337bb4e9309607c06fd4511c80/IMG_5788.png)
+ι киσш шε’яε иσт тσgεтнεя,вυт ѕтιll уσυ’яε мιиε,тεll мε шнɑт ι gσт тσ ∂σ тσ gεт тнɑт тняσυgн уσυя мιи∂
 <!--
 **ghcoulfaun/ghcoulfaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
